@@ -1,0 +1,34 @@
+{
+    "name": "root",
+    "title": "根节点",
+    "children": [
+        {
+            "title": "Java编程规范",
+            "name": "1",
+            "children": [
+                {
+                    "title": "编程规约",
+                    "name": "21",
+                    "children": [
+                        {
+                            "title": "环境",
+                            "name": "example",
+                            "icon": "mdi-file-document-outline"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "前端文档",
+            "name": "frontend",
+            "children": [
+                {
+                    "title": "git相关用法与命令",
+                    "name": "git",
+                    "icon": "mdi-file-document-outline"
+                }
+            ]
+        }
+    ]
+}

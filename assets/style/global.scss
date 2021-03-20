@@ -1,0 +1,14 @@
+.nuxt-content {
+  :not(pre) > code[class*='language-'],
+  pre[class*='language-'] {
+    background: rgb(242 242 242);
+    text-shadow: none;
+    border-radius: 7px;
+    font-family: 'Roboto';
+    letter-spacing: 0.5px;
+    code{
+        background: none;
+        font-family: 'Roboto';
+    }
+  }
+}
