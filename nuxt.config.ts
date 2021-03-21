@@ -21,8 +21,8 @@ export default {
     md: resolve(__dirname, './content'),
   },
   head: {
-    titleTemplate: '%s - 艾普工华',
-    title: '文档系统',
+    titleTemplate: '%s - markdown-reader',
+    title: 'demo',
     htmlAttrs: {
       lang: 'en',
     },
